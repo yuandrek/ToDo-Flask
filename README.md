@@ -1,3 +1,3 @@
-## App para registrar y editar cosas por hacer
+* App para registrar y editar cosas por hacer
 
 
